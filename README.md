@@ -42,8 +42,8 @@ I speak:
 
 ### Just for saying "Hello"
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nolfex_tg)
-[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail)](mailto:untroman@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/roman-unt/)
+[![Telegram](https://img.shields.io/badge/-Telegram-1e272e?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nolfex_tg)
+[![Gmail](https://img.shields.io/badge/-Gmail-1e272e?style=for-the-badge&logo=Gmail)](mailto:untroman@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Gmail-1e272e?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/roman-unt/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoflexGit&layout=compact)](https://github.com/NoflexGit/github-readme-stats)
