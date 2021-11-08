@@ -12,7 +12,6 @@ I always open for new opportunities. Just write me 🙂
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1e272e?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/roman-unt)
 
 </br>
-</br>
 
 💻 &nbsp; **Main programming languages:**
 
@@ -32,7 +31,7 @@ I always open for new opportunities. Just write me 🙂
 ![Webpack.js](https://img.shields.io/badge/-Webpack-1e272e?style=for-the-badge&logo=webpack)
 ![Express](https://img.shields.io/badge/-Express-1e272e?style=for-the-badge&logo=express)
 
-...and many other things
+...and many other
 
 🧡 &nbsp; **My hobby things:**
 
@@ -46,8 +45,8 @@ I always open for new opportunities. Just write me 🙂
 
 💬 &nbsp; **I speak:**
 
-![English](https://img.shields.io/badge/-English-3d1f8f?style=for-the-badge)
-![German](https://img.shields.io/badge/-German-008a57?style=for-the-badge)
-![Russian](https://img.shields.io/badge/-Russian-b04c00?style=for-the-badge)
+![English](https://img.shields.io/badge/-English_C1-3d1f8f?style=for-the-badge)
+![German](https://img.shields.io/badge/-German_B1-008a57?style=for-the-badge)
+![Russian](https://img.shields.io/badge/-Russian_C2-b04c00?style=for-the-badge)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoflexGit&layout=compact)](https://github.com/NoflexGit/github-readme-stats)
