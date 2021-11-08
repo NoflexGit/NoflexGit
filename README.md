@@ -1,9 +1,8 @@
 # Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-## My name is Roman.
+### **My name is Roman**
 
-I'm a senior frontend developer with more than 8 years of professional developpment.
-
+I'm a senior frontend developer with more than 8 years of professional development.
 Currently, I live in Moscow, RU and work at **[BPC](https://www.bpcbt.com/)**.
 
 Main languages:
