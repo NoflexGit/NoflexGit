@@ -8,8 +8,12 @@
 
 I'm a senior frontend developer with more than 8 years of professional development.</br>
 Currently, I live in Moscow, RU and work at **[BPC](https://www.bpcbt.com/)**.
+I always open
 
-**Main languages:**
+</br>
+</br>
+
+**Main programming languages:**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1e272e?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1e272e?style=for-the-badge&logo=TypeScript)
@@ -19,7 +23,8 @@ Currently, I live in Moscow, RU and work at **[BPC](https://www.bpcbt.com/)**.
 ![React.js](https://img.shields.io/badge/-React.js-1e272e?style=for-the-badge&logo=react)
 ![Redux.js](https://img.shields.io/badge/-Redux-1e272e?style=for-the-badge&logo=redux)
 ![MobX.js](https://img.shields.io/badge/-Mobx-1e272e?style=for-the-badge&logo=mobx)
-![HTML](https://img.shields.io/badge/-HTML-1e272e?style=for-the-badge&logo=html5)
+![Jest.js](https://img.shields.io/badge/-Jest-1e272e?style=for-the-badge&logo=Jest)
+![HTML](https://img.shields.io/badge/-HTML-1e272e?style=for-the-badge&logo=html5)</br>
 ![CSS](https://img.shields.io/badge/-CSS-1e272e?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-1e272e?style=for-the-badge&logo=sass)
 ![Node.js](https://img.shields.io/badge/-Node.js-1e272e?style=for-the-badge&logo=nodedotjs)
