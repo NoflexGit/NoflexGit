@@ -5,7 +5,7 @@
 I'm a senior frontend developer with more than 8 years of professional development.</br>
 Currently, I live in Moscow, RU and work at **[BPC](https://www.bpcbt.com/)**.</br>
 
-I always open for new opportunities. Just write me 🙂
+I'm always open for new opportunities. Just write me 🙂
 
 [![Telegram](https://img.shields.io/badge/-Telegram-1e272e?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nolfex_tg)
 [![Gmail](https://img.shields.io/badge/-Gmail-1e272e?style=for-the-badge&logo=Gmail)](mailto:untroman@gmail.com)
