@@ -2,8 +2,7 @@
 
 ### **My name is Roman**
 
-I'm a senior frontend developer with more than 8 years of professional development.</br>
-Currently, I live in Moscow, RU and work at **[BPC](https://www.bpcbt.com/)**.</br>
+I'm a senior frontend developer with more than 9 years of professional development.</br>
 
 I'm always open for new opportunities. Just write me 🙂
 
