@@ -37,11 +37,6 @@ I'm always open for new opportunities. Just write me 🙂
 ![Arduino](https://img.shields.io/badge/-Arduino-1e272e?style=for-the-badge&logo=Arduino)
 ![Python](https://img.shields.io/badge/-Python-1e272e?style=for-the-badge&logo=python)
 
-📚 &nbsp; **I have recenlty learned:**
-
-![Gatsby](https://img.shields.io/badge/-Gatsby-1e272e?style=for-the-badge&logo=gatsby)
-![Dart](https://img.shields.io/badge/-Dart-1e272e?style=for-the-badge&logo=Dart)
-
 💬 &nbsp; **I speak:**
 
 ![English](https://img.shields.io/badge/-English_C1-3d1f8f?style=for-the-badge)
