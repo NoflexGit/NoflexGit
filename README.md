@@ -12,30 +12,14 @@ I'm always open for new opportunities. Just write me 🙂
 
 </br>
 
-💻 &nbsp; **Main programming languages:**
-
+💻  &nbsp; **I'm in love with:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1e272e?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1e272e?style=for-the-badge&logo=TypeScript)
-
-🛠 &nbsp; **Tech Stack:**
-
 ![React.js](https://img.shields.io/badge/-React.js-1e272e?style=for-the-badge&logo=react)
-![Redux.js](https://img.shields.io/badge/-Redux-1e272e?style=for-the-badge&logo=redux)
-![MobX.js](https://img.shields.io/badge/-Mobx-1e272e?style=for-the-badge&logo=mobx)
 ![Jest.js](https://img.shields.io/badge/-Jest-1e272e?style=for-the-badge&logo=Jest)
-![HTML](https://img.shields.io/badge/-HTML-1e272e?style=for-the-badge&logo=html5)</br>
-![CSS](https://img.shields.io/badge/-CSS-1e272e?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-1e272e?style=for-the-badge&logo=sass)
 ![Node.js](https://img.shields.io/badge/-Node.js-1e272e?style=for-the-badge&logo=nodedotjs)
-![Webpack.js](https://img.shields.io/badge/-Webpack-1e272e?style=for-the-badge&logo=webpack)
-![Express](https://img.shields.io/badge/-Express-1e272e?style=for-the-badge&logo=express)
-
 ...and many other
-
-🧡 &nbsp; **My hobby things:**
-
-![Arduino](https://img.shields.io/badge/-Arduino-1e272e?style=for-the-badge&logo=Arduino)
-![Python](https://img.shields.io/badge/-Python-1e272e?style=for-the-badge&logo=python)
 
 💬 &nbsp; **I speak:**
 
