@@ -17,11 +17,8 @@ I'm always open for new opportunities. Just write me 🙂
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1e272e?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1e272e?style=for-the-badge&logo=TypeScript)
 ![React.js](https://img.shields.io/badge/-React.js-1e272e?style=for-the-badge&logo=react)
-![Jest.js](https://img.shields.io/badge/-Jest-1e272e?style=for-the-badge&logo=Jest)
-![SASS](https://img.shields.io/badge/-SASS-1e272e?style=for-the-badge&logo=sass)
 ![Node.js](https://img.shields.io/badge/-Node.js-1e272e?style=for-the-badge&logo=nodedotjs)
-</br>
-...and many other
+
 
 💬 &nbsp; **I speak:**
 
