@@ -14,7 +14,7 @@ I'm always open for new opportunities. Just write me.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1e272e?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1e272e?style=for-the-badge&logo=TypeScript)
-![NextJS](https://img.shields.io/badge/-NextJS-1e272e?style=for-the-badge&logo=NextJs)
+![NextJS](https://img.shields.io/badge/-NextJS-1e272e?style=for-the-badge&logo=Next)
 ![React.js](https://img.shields.io/badge/-React.js-1e272e?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-1e272e?style=for-the-badge&logo=nodedotjs)
 
