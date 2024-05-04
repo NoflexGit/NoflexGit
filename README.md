@@ -4,13 +4,11 @@
 
 I'm a senior frontend developer with more than 9 years of professional development.</br>
 
-I'm always open for new opportunities. Just write me 🙂
+I'm always open for new opportunities. Just write me.
 
 [![Telegram](https://img.shields.io/badge/-Telegram-1e272e?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/nolfex_tg)
 [![Gmail](https://img.shields.io/badge/-Gmail-1e272e?style=for-the-badge&logo=Gmail)](mailto:untroman@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1e272e?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/roman-unt)
-
-</br>
 
 💻  &nbsp; **I'm in love with:**
 
