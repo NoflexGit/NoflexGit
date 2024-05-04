@@ -13,7 +13,7 @@ I'm always open for new opportunities. Just write me 🙂
 </br>
 
 💻  &nbsp; **I'm in love with:**
-</br>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1e272e?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1e272e?style=for-the-badge&logo=TypeScript)
 ![React.js](https://img.shields.io/badge/-React.js-1e272e?style=for-the-badge&logo=react)
