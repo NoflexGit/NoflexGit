@@ -17,5 +17,3 @@ I'm always open for new opportunities. Just write me.
 ![Next.js](https://img.shields.io/badge/-NextJS-1e272e?style=for-the-badge&logo=nextdotjs)
 ![React.js](https://img.shields.io/badge/-React.js-1e272e?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-1e272e?style=for-the-badge&logo=nodedotjs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoflexGit&layout=compact)](https://github.com/NoflexGit/github-readme-stats)
